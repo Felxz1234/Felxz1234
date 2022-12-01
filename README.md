@@ -13,7 +13,7 @@
 
 
 <div style="display: inline_block"><br>
-  <img align="right" alt="FRK-gif" src="https://cdn.discordapp.com/attachments/818605438953848852/875541770652516382/FRK.gif">
+  
   <img align="center" alt="FRK-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="FRK-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="FRK-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -25,11 +25,14 @@
 </div>
 
 
-<div align="center">
-  
+
+<div align="center">  
 <h3>Some statistcs:</h3>
-<hr>
+ <div align="center">
+  <a href="https://github.com/Felxz1234">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felxz1234&layout=compact&langs_count=7&theme=dracula"/>
+ 
+</div>  
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Felxz1234&hide=contribs,prs&theme=tokyonight&show_icons=true)
+<div/>
 
-</div>
