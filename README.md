@@ -1,16 +1,35 @@
-### Hi there 👋
+# Felipe Fail
 
-<!--
-**Felxz1234/Felxz1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sou um ambicioso solucionador de problemas, que sempre quer fazer o melhor possível, seja na minha vida profissional ou pessoal. Sou fácil de lidar, sei trabalhar e interagir com pessoas de todos os níveis. Posso assumir a responsabilidade pelo meu próprio trabalho. Estou sempre olhando para frente, buscando conhecimento e trabalhando para causar um bom impacto no futuro.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning: **Django and NextJs**
+
+- 📫 How to reach me: 
+
+
+[![Gmail Badge](https://img.shields.io/badge/-felps134679@gmail.com-fc0b03?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:felps134679@gmail.com)](mailto:felps134679@gmail.com)
+
+
+
+<div style="display: inline_block"><br>
+  <img align="right" alt="FRK-gif" src="https://cdn.discordapp.com/attachments/818605438953848852/875541770652516382/FRK.gif">
+  <img align="center" alt="FRK-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="FRK-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="FRK-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="FRK-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="FRK-Mongo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="FRK-Postgres" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="FRK-Postgres" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+   <img align="center" alt="FRK-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> 
+</div>
+
+
+<div align="center">
+  
+<h3>Some statistcs:</h3>
+<hr>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Felxz1234&hide=contribs,prs&theme=tokyonight&show_icons=true)
+
+</div>
