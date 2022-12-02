@@ -9,7 +9,7 @@
 
 
 [![Gmail Badge](https://img.shields.io/badge/-felps134679@gmail.com-fc0b03?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:felps134679@gmail.com)](mailto:felps134679@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/felipe-kaua/)
+[![Linkedin Badge](https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/https://www.linkedin.com/in/felipe-kaua-7a1165244//)
 [![Instagram Badge](https://img.shields.io/badge/-instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/in/https://www.instagram.com/in/https://www.instagram.com/felipe_fail66//)
 
 
