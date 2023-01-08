@@ -20,7 +20,7 @@
   <img align="center" alt="FRK-Mongo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="FRK-Postgres" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="FRK-Postgres" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-   <img align="center" alt="FRK-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> 
+
 </div>
 
 
